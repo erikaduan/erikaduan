@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '* * 1, 10, 20, 30 * *' # Runs every hour, on the hour
+    - cron: '0 0 1, 10, 20, 30 * *' # Runs every hour, on the hour
   workflow_dispatch: 
 jobs:
   update-readme-with-blog:
