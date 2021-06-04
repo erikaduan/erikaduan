@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-	  comit_message: "Update README with blog posts weekly"
+	  commit_message: "Update README with blog posts weekly"
           feed_list: "erikaduan.github.io/sitemap.xml"
