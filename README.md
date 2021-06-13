@@ -8,6 +8,7 @@ I am a former biologist turned data scientist who is passionate about data scien
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
 ## :woman_technologist: Latest posts  
 <!-- BLOG-POST-LIST:START -->
+- [Connecting RStudio to GitHub](https://erikaduan.github.io/posts/2021-05-30-syncing-to-github)
 - [Advanced data.table operations](https://erikaduan.github.io/posts/2021-02-16-data-table-part-2)
 - [Introduction to data.table](https://erikaduan.github.io/posts/2021-01-30-data-table-part-1)
 - [Volcano plots with ggplot2](https://erikaduan.github.io/posts/2021-01-02-volcano-plots-with-ggplot2)
