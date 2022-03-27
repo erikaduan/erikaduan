@@ -7,7 +7,7 @@ I am a former biologist turned data scientist who is passionate about data scien
 ## :woman_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
 
-## :woman_technologist: Latest blog posts
+## :woman_technologist: Latest [blog posts](https://erikaduan.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [Connecting RStudio to GitHub](https://erikaduan.github.io/posts/2021-05-30-syncing-to-github)
 - [Advanced data.table operations](https://erikaduan.github.io/posts/2021-02-16-data-table-part-2)
