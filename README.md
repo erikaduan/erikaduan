@@ -2,9 +2,7 @@
 <br>
 
 ## :woman_technologist: Hi there!
-I am a ~~biologist~~ data scientist who is passionate about data science uplift in the public sector.       
-
-I write R and Python programming tutorials, with a focus on data analysis, statistical modelling and machine learning.     
+I am a data scientist who is passionate about public sector data science uplift. I write R and Python programming tutorials, with a focus on data analysis, statistical modelling and machine learning.     
 
 **To support my work, you can buy me a ~~coffee~~ pizza [here](https://www.buymeacoffee.com/erikaduan).**  
 
